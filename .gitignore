@@ -3,3 +3,7 @@
 /.vs
 /Hugelady
 /Remiscrap.sln
+/Remiscrap/NuGet.Config
+/Remiscrap/Plugin.cs
+/Remiscrap/Remiscrap.csproj
+/Remiscrap/bin
