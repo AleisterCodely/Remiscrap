@@ -14,7 +14,8 @@ Currently includes 2 models, including:
 
 This mod <b>REQUIRES</b> everyone in the lobby to have it installed.
 
-This mod contains configs so you can change the rarity of the scrap.
+This mod contains configs so you can change the rarity of the scrap.<br>
+Find the config in [Your thunderstore profile]>Edit config>BepInEx/config/Remiscrap.cfg
 
 Want your <i><s>grift's</s></i> deriv's model in the mod? Reach out to xochimilco on Discord! or DM @AleisterCodely on twitter.<br>
 You will need to provide the model (preferably in .fbx format) with its textures as well as how common/rare you want the loot to be, value will be adjusted accordingly and a configuration for it will be made.
