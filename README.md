@@ -10,6 +10,8 @@ Currently includes 2 models, including:
     <li><b>Alien Milady Fumo:</b> A <b>MEGASIZE</b> Alien Milady Fumo! A rare, gigantic, high-value plushie you may rarely find in any level</li>
 </ul>
 
+![image](https://github.com/AleisterCodely/Remiscrap/assets/67978431/6e6cf5c7-c212-4e3d-8209-f30496af6e97)
+
 This mod <b>REQUIRES</b> everyone in the lobby to have it installed.
 
 This mod contains configs so you can change the rarity of the scrap.
