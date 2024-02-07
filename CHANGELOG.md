@@ -10,6 +10,7 @@
 ## Version 1.1.0
 
 <ul>
-    <li>1.1.0: Balanced the Remi-Cola spawns to be rarer, price was adjusted</li>
-    <li>1.1.0: Power to the People! New configs were created that allow you to adjust the minimun and maximum price of the scrap</li>
+    <li>1.1.0: Balanced the Remi-Cola spawns to be rarer, price was adjusted accordingly</li>
+    <li>1.1.0: Power to the Players! New configs were created that allow you to adjust the minimum value of the scrap, maximum will automatically be calculated as minimum value + 100</li>
+    <li>1.1.0: The Alien Milady Fumo now drops facing towards you, yay!</li>
 </ul>
