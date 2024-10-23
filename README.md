@@ -11,7 +11,7 @@ Currently includes 2 models, including:
     <li><b>Remicat Figurine:</b> A small, collectable figurine featuring the one and only remilia cat! so cute and also small! An uncommon, small, mid-value item you may find scattered in any level</li>
 </ul>
 
-![image](https://github.com/AleisterCodely/Remiscrap/assets/67978431/6e6cf5c7-c212-4e3d-8209-f30496af6e97)
+![image](https://github.com/user-attachments/assets/8244892d-4808-4c88-b5f1-6f0006c96c9c)
 
 This mod <b>REQUIRES</b> everyone in the lobby to have it installed.
 
