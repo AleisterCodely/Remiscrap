@@ -8,7 +8,7 @@ Currently includes 2 models, including:
 <ul>
     <li><b>Remi-Cola Can:</b> A can of refreshing Remi-Cola! A common, small, low-value item you may find scattered in any level</li>
     <li><b>Alien Milady Fumo:</b> A <b>MEGASIZE</b> Alien Milady Fumo! A rare, gigantic, high-value plushie you may rarely find in any level</li>
-    <li><b>Remilia Cat Figurine:</b> A small, collectable figurine featuring the one and only remilia cat! so cute and also small! An uncommon, small, mid-value item you may find scattered in any level</li>
+    <li><b>Remicat Figurine:</b> A small, collectable figurine featuring the one and only remilia cat! so cute and also small! An uncommon, small, mid-value item you may find scattered in any level</li>
 </ul>
 
 ![image](https://github.com/AleisterCodely/Remiscrap/assets/67978431/6e6cf5c7-c212-4e3d-8209-f30496af6e97)
